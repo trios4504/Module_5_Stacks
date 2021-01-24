@@ -1,0 +1,13 @@
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_5_Stacks\bin\Debug\netcoreapp3.1\Module_5_Stacks.exe
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_5_Stacks\bin\Debug\netcoreapp3.1\Module_5_Stacks.deps.json
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_5_Stacks\bin\Debug\netcoreapp3.1\Module_5_Stacks.runtimeconfig.json
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_5_Stacks\bin\Debug\netcoreapp3.1\Module_5_Stacks.runtimeconfig.dev.json
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_5_Stacks\bin\Debug\netcoreapp3.1\Module_5_Stacks.dll
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_5_Stacks\bin\Debug\netcoreapp3.1\Module_5_Stacks.pdb
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_5_Stacks\obj\Debug\netcoreapp3.1\Module_5_Stacks.csprojAssemblyReference.cache
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_5_Stacks\obj\Debug\netcoreapp3.1\Module_5_Stacks.AssemblyInfoInputs.cache
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_5_Stacks\obj\Debug\netcoreapp3.1\Module_5_Stacks.AssemblyInfo.cs
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_5_Stacks\obj\Debug\netcoreapp3.1\Module_5_Stacks.csproj.CoreCompileInputs.cache
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_5_Stacks\obj\Debug\netcoreapp3.1\Module_5_Stacks.dll
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_5_Stacks\obj\Debug\netcoreapp3.1\Module_5_Stacks.pdb
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_5_Stacks\obj\Debug\netcoreapp3.1\Module_5_Stacks.genruntimeconfig.cache
