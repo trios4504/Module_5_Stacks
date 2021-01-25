@@ -14,6 +14,9 @@ namespace Module_5_Stacks
 
             pages.PrintnewPage();
             pages.PrintoldPage();
+            pages.PrintoldPageUndoDirection();
+
+            
         }
     }
 
@@ -33,6 +36,16 @@ namespace Module_5_Stacks
             oldPage.Push(oldDirection);
         }
 
+        public void oldPageUndoDirection(string oldUndoDirection)
+        {
+            string oldPageUndoDirection =  newPage.Pop();
+        }
+
+        public void oldPageRedoDirection (string oldRedoDirection)
+        {
+            oldPage.Push(oldRedoDirection);
+        }
+
         public void PrintnewPage()
         {
             foreach (var item in newPage)
@@ -47,6 +60,11 @@ namespace Module_5_Stacks
             {
                 Console.WriteLine("The page you are as viewing is: " + item);
             }
+        }
+
+        public void PrintoldPageUndoDirection()
+        {
+            Console.WriteLine("");
         }
 
     }
